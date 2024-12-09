@@ -1,12 +1,48 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
+<h1 align="center">👋 Hi, I'm Michael</h1>
 
-<h3 align="center">Passionate Software Analyst and Developer, specializing in designing and building efficient solutions. Always eager to learn and innovate with the latest technologies</h3>
+<h3 align="center">
+  A Full-Stack Developer passionate about crafting seamless user experiences and robust backend systems. 
+  Dedicated to continuous learning, innovation, and turning ideas into reality with code.
+</h3>
 
+---
+
+<h2 align="left">💡 About Me</h2>
 <ul align="left">
-  <li>🔧 Mobile Developer.</li>
-  <li>🌐 Developing static websites.</li>
-  <li>🎨 Creator.</li>
+  <li>🔧 Experienced in building scalable and efficient web applications.</li>
+  <li>🚀 Enthusiastic about exploring new technologies and tools to enhance development workflows.</li>
+  <li>🌟 Skilled in front-end technologies like React, Angular, and backend frameworks like Node.js and Express.</li>
 </ul>
+
+---
+
+<h2 align="left">🌟 Core Skills</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+<h2 align="left">📫 Connect with Me</h2>
+<p align="left">
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="60" width="60"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="60" width="60"/>
+  </a>
+  <a href="https://github.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="60" width="60"/>
+  </a>
+</p>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
