@@ -43,84 +43,15 @@
 
 <h2 align="left">📫 Connect with Me</h2>
 <p align="left">
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:avilesmaicol.08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/Mitchel2003" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/tu-usuario" target="_blank">
+  <a href="https://github.com/Mitchel2003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
- <a href="mailto:tu-correo@gmail.com" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="Mitchel2003" height="60" width="60"/></a> 
- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Mitchel2003" height="60" width="60" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="60" height="60"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="60" height="60"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/sourcetree.svg" alt="sourcetree" width="60" height="60"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="figma" width="60" height="60"/> 
-</a>
-
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
