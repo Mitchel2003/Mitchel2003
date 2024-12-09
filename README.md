@@ -77,19 +77,19 @@
 
 ---
 
-<div align="flex justify-between">
-  <h2 align="left">📫 Connect with Me</h2>
+<h2 align="left" style="display: flex; justify-content: space-between; align-items: center;">
+  📫 Connect with Me
   <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</div>
+</h2>
 
 <p align="left">
   <a href="mailto:avilesmaicol.08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/Mitchel2003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mitchel2003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
