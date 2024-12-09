@@ -70,9 +70,9 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Mitchel2003">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
@@ -80,8 +80,8 @@
 
 <h2 align="left">🏆 Achievements</h2>
 <p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  <a href="https://github.com/Mitchel2003">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -90,14 +90,14 @@
 <h2 align="left">🔥 Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Streak Stats" />
+  <a href="https://github.com/Mitchel2003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitchel2003&theme=radical" alt="Streak Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://github-contributor-stats.vercel.app/api?username=tu-usuario&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <a href="https://github.com/Mitchel2003">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   </a>
 </p>
 
@@ -105,5 +105,5 @@
 
 <h2 align="left">🌟 Visitors</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
