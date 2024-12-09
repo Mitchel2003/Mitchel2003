@@ -79,7 +79,7 @@
 
 <h2 align="left" style="display: flex; justify-content: space-between; align-items: center;">
   📫 Connect with Me
-  <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </h2>
 
 <p align="left">
