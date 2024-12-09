@@ -13,50 +13,66 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/mitchel2003" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="Mitchel2003" height="30" width="40"/></a> 
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Mitchel2003" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Mitchel2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="60" height="60"/>
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="60" height="60"/>
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="frebase" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> 
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="visual" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="talwin" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/sourcetree.svg" alt="sourcetree" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="github" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="60"/> 
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio" width="60" height="60"/> 
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/sourcetree.svg" alt="sourcetree" width="60" height="60"/> 
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="figma" width="60" height="60"/> 
 </a>
 
 </p>
