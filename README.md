@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/mitchel2003" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="Mitchel2003" height="30" width="40"/></a> 
-  <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Mitchel2003" height="30" width="40" /></a>
+ <a href="mailto:tu-correo@gmail.com" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="Mitchel2003" height="30" width="40"/></a> 
+ <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Mitchel2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="60" height="60"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="60"/> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="60" height="60"/> 
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
