@@ -77,7 +77,10 @@
 
 ---
 
-<h2 align="left">📫 Connect with Me</h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /> </p>
+<div align="flex justify-between">
+  <h2 align="left">📫 Connect with Me</h2>
+  <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</div>
 
 <p align="left">
   <a href="mailto:avilesmaicol.08@gmail.com">
