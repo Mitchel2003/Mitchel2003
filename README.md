@@ -77,11 +77,8 @@
 
 ---
 
-<h2 align="left">📫 Connect with Me</h2>
-<h2 align="left">🌟 Visitors</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
+<h2 align="left">📫 Connect with Me</h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /> </p>
+
 <p align="left">
   <a href="mailto:avilesmaicol.08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
