@@ -47,8 +47,8 @@
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true&style=flat" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&style=flat" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 <h2 align="left">🏆 Achievements</h2>
 <p align="center">
   <a href="https://github.com/Mitchel2003">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7&style=flat" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -67,13 +67,13 @@
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitchel2003&theme=radical&style=flat" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitchel2003&theme=radical" alt="Streak Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=5&theme=radical&combine_all_yearly_contributions=true&style=flat" alt="Contributor Stats" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <h2 align="left" style="display: flex; justify-content: space-between; align-items: center;">
   📫 Connect with Me
-  <img align="right" src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
 </h2>
 
 <p align="left">
