@@ -72,6 +72,12 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Mitchel2003">
     <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   </a>
