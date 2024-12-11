@@ -66,8 +66,8 @@
 <h2 align="left">🔥 Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/Mitchel2003">
-    <img src="https://streak-stats.demolab.com/?user=Mitchel2003&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mitchel2003&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 
