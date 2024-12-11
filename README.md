@@ -47,8 +47,8 @@
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   </a>
 </p>
 
