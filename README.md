@@ -71,15 +71,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
-
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
