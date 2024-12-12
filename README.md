@@ -70,7 +70,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Mitchel2003&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mitchel2003&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
