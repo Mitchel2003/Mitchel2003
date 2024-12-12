@@ -71,11 +71,13 @@
   </a>
 </p>  
 
+{/*
 <p align="center">
   <a href="https://github.com/Mitchel2003">
     <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   </a>
-</p>
+</p> 
+*/}
 
 ---
 
