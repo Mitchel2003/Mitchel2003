@@ -71,6 +71,8 @@
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
