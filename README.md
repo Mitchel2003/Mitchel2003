@@ -52,7 +52,7 @@
     <!--Most-used-lenguage-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
     <!--Streak-stats-->
-    <img height="400em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img height="300em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
