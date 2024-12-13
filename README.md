@@ -72,18 +72,12 @@
 </p>
 
 <p align="center">
-  <!--lapras-card-->
   <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
-    <img alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en" width="400">
-  </a>
-  Last Updated on 12/13/2024, 12:00:00 AM
   <!--lapras-card-->
-
+    <img alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en" width="400">
   <!--Repositories-->
-  <a href="https://github.com/Mitchel2003">
     <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   </a>
-  <!--Repositories-->
 </p>
 
 ---
