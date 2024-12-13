@@ -65,13 +65,46 @@
 
 <h2 align="left">🔥 Contributions</h2>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center;">
+  <!-- Lapras Card -->
+  <div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
+    <a href="https://lapras.com/public/Mitchel2003" target="_blank" rel="noopener noreferrer">
+      <img 
+        alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." 
+        src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=es" 
+        width="400" 
+      />
+    </a>
+  </div>
+  
+  <!-- GitHub Repository Stats -->
+  <div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
+    <a href="https://github.com/Mitchel2003">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&theme=radical&hide_border=true&combine_all_yearly_contributions=true" 
+        alt="Contributor Stats" 
+        width="400" 
+      />
+    </a>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+<h2 align="left">🔥 Contributions</h2>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-<!--START_SECTION:lapras-card-->
 <p align="center">
   <!--lapras-card-->
   <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
