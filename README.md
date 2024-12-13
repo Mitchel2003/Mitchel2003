@@ -63,32 +63,33 @@
 
 ---
 
-<h2 class="text-left text-2xl font-bold mb-4">🔥 Contributions</h2>
+<h2 align="left">🔥 Contributions</h2>
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<div style="display: grid; grid-template-columns: 1fr; gap: 20px; text-align: center;">
   <!-- Lapras Card -->
-  <div class="flex justify-center">
+  <div style="max-width: 400px; margin: 0 auto;">
     <a href="https://lapras.com/public/Mitchel2003" target="_blank" rel="noopener noreferrer">
       <img 
         alt="Mitchel2003 en LAPRAS: Ingeniería: 3.27 / 3.36, Negocios: 2.43 / 5.0, Influencia: 3.65 / 5.0." 
         src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=es" 
-        class="w-full max-w-xs md:max-w-sm"
+        width="100%" 
+        style="max-width: 400px;"
       />
     </a>
   </div>
   
   <!-- GitHub Repository Stats -->
-  <div class="flex justify-center">
+  <div style="max-width: 400px; margin: 0 auto;">
     <a href="https://github.com/Mitchel2003">
       <img 
         src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&theme=radical&hide_border=true&combine_all_yearly_contributions=true" 
         alt="Contributor Stats" 
-        class="w-full max-w-xs md:max-w-sm"
+        width="100%" 
+        style="max-width: 400px;"
       />
     </a>
   </div>
 </div>
-
 
 
 
