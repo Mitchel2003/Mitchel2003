@@ -48,7 +48,7 @@
 <p align="center">
   <a href="https://github.com/Mitchel2003">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
@@ -65,37 +65,6 @@
 
 <h2 align="left">🔥 Contributions</h2>
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 20px; text-align: center;">
-  <!-- Lapras Card -->
-  <div style="max-width: 400px; margin: 0 auto;">
-    <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
-      <img alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en" width="400">
-    </a>  
-    Last Updated on 12/13/2024, 12:00:00 AM
-  </div>
-  
-  <!-- GitHub Repository Stats -->
-  <div style="max-width: 400px; margin: 0 auto;">
-    <a href="https://github.com/Mitchel2003">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&theme=radical&hide_border=true&combine_all_yearly_contributions=true" 
-        alt="Contributor Stats" 
-        width="100%" 
-        style="max-width: 400px;"
-      />
-    </a>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-<h2 align="left">🔥 Contributions</h2>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -106,7 +75,7 @@
   <!--lapras-card-->
   <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
     <img alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en" width="400">
-  </a>  
+  </a>
   Last Updated on 12/13/2024, 12:00:00 AM
   <!--lapras-card-->
 
