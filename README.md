@@ -52,7 +52,7 @@
     <!--Most-used-lenguage-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
     <!--Streak-stats-->
-    <img height="180em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img height="400em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
     <!--Lapras-card-->
-    <img alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en">
+    <img width="400" alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en">
     <!--Repositories-->
     <img src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=6&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
   </a>
