@@ -72,8 +72,13 @@
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer"><img alt="mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 4.02 / 5.0, ビジネス: 3.67 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.02&b=3.67&i=3.65&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
-Last Updated on 12/13/2024, 12:16:06 AM</p>
+<p >
+  <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
+    <img alt="mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 4.02 / 5.0, ビジネス: 3.67 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.02&b=3.67&i=3.65&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" >
+  </a>
+  
+  Last Updated on 12/13/2024, 12:16:06 AM
+</p>
 <!--END_SECTION:lapras-card-->
 
 <p align="center">
