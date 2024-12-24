@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- GIF configurado para autoplay -->
-  <img src="https://media.giphy.com/media/AjgcvZVHJf9r1UQrgZ/giphy.gif" alt="Glitch Retro Computer" width="480" style="border-radius: 15px;" />
+  ![Coding GIF](assets/background.gif)
 
   <!-- Texto superpuesto -->
   <h1 style="margin-top: 20px; font-size: 2.5em;">👋 Hi, I'm Michael</h1>
