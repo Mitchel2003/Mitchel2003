@@ -5,16 +5,6 @@
   Dedicated to continuous learning, innovation, and turning ideas into reality with code
 </h3>
 
-<div align="center">
-  <div align="center">
-    <img src="https://github.com/Mitchel2003/Mitchel2003/raw/main/public/assets/background.gif" alt="Coding GIF" style="width: 100%; max-width: 480px; border-radius: 15px;">
-  </div>
-
-  <!-- Texto superpuesto -->
-  <h1 style="margin-top: 20px; font-size: 2.5em;">👋 Hi, I'm Michael</h1>
-  <h3 style="font-size: 1.5em; color: gray;">A Full-Stack Developer crafting efficient solutions and seamless experiences</h3>
-</div>
-
 ---
 
 <h2 align="left">💡 About Me</h2>
