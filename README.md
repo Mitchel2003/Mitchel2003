@@ -6,8 +6,13 @@
 </h3>
 
 <div align="center">
-  <!-- GIF configurado para autoplay -->
-  ![Coding GIF](assets/background.gif)
+  <div align="center">
+  <video autoplay loop muted playsinline style="width: 100%; max-width: 480px; border-radius: 15px;">
+    <source src="assets/background.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
   <!-- Texto superpuesto -->
   <h1 style="margin-top: 20px; font-size: 2.5em;">👋 Hi, I'm Michael</h1>
