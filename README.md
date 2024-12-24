@@ -1,24 +1,17 @@
 <h1 align="center">👋 Hi, I'm Michael</h1>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fmkYSBlJt3XjNF6p9c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fmkYSBlJt3XjNF6p9c">via GIPHY</a></p>
 
 <h3 align="center">
   A Full-Stack Developer passionate about crafting seamless user experiences and robust backend systems. 
   Dedicated to continuous learning, innovation, and turning ideas into reality with code
 </h3>
 
-
-<div align="center" style="position: relative; width: 100%; max-width: 600px; margin: 0 auto;">
-  <!-- Contenedor del GIF como fondo -->
-  <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden; border-radius: 15px;">
-    <iframe src="https://giphy.com/embed/fmkYSBlJt3XjNF6p9c" width="100%" height="100%" style="position: absolute; top: 0; left: 0; border: none;" allowFullScreen></iframe>
-  </div>
+<div align="center">
+  <!-- GIF configurado para autoplay -->
+  <img src="https://media.giphy.com/media/AjgcvZVHJf9r1UQrgZ/giphy.gif" alt="Glitch Retro Computer" width="480" style="border-radius: 15px;" />
 
   <!-- Texto superpuesto -->
-  <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; text-shadow: 0 0 10px rgba(0,0,0,0.7); padding: 20px;">
-    <h1 style="font-size: 2.5em; margin: 0;">👋 Hi, I'm Michael</h1>
-    <h3 style="margin: 10px 0;">A Full-Stack Developer passionate about crafting seamless user experiences and robust backend systems. 
-  Dedicated to continuous learning, innovation, and turning ideas into reality with code</h3>
-  </div>
+  <h1 style="margin-top: 20px; font-size: 2.5em;">👋 Hi, I'm Michael</h1>
+  <h3 style="font-size: 1.5em; color: gray;">A Full-Stack Developer crafting efficient solutions and seamless experiences</h3>
 </div>
 
 ---
