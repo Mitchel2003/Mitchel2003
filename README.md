@@ -51,33 +51,25 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
     <!--Github-stats-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <!--Streak-stats-->
-    <img height="250em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-<h2 align="left">🏆 Achievements</h2>
-<p align="center">
-  <a href="https://github.com/Mitchel2003">
+    <!--Trophies-stats-->
     <img src="https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-<h2 align="left">🔥 Contributions</h2>
-
+<h2 align="left">🏆 Contributions</h2>
 <p align="center">
-  <a href="https://lapras.com/public/KFSJXU0" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Mitchel2003">
+    <!--Streak-stats-->
+    <img height="180em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
     <!--Lapras-card-->
-    <img width="450" alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en">
-    <!--Repositories-->
-    <img width="450" src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=6&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+    <img height="180em" alt="Mitchel2003のLAPRASでのスコアは次の通りです: エンジニアリング: 3.27 / 3.36, ビジネス: 2.43 / 5.0, インフルエンス: 3.65 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=3.36&i=2.43&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=en">
   </a>
 </p>
-
+    <!--Repositories-->
+    <!-- <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Mitchel2003&limit=6&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats"/> -->
+    
 ---
 
 <h2 align="left" style="display: flex; justify-content: space-between; align-items: center;">
