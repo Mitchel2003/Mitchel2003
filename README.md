@@ -53,8 +53,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <!--Trophies-stats-->
     <img src="https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-    <!--Trophies-stats-->
-    <img src="https://api.githubtrends.io/Mitchel2003/svg/avgupta456/langs" alt="Trophies" />
   </a>
 </p>
 
