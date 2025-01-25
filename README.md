@@ -47,11 +47,11 @@
 <h2 align="left">🏆 Contributions</h2>
 <p align="center">
     <!--Streak-stats-->
-  <a href="https://github.com/Mitchel2003">
+  <a href="https://github.com/Mitchel2003?tab=repositories">
     <img height="180em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
     <!--Lapras-card-->
-  <a href="https://github.com/Mitchel2003">
+  <a href="https://lapras.com/public/KFSJXU0">
     <img height="180em" alt="lapras-card" src="https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=3.36&i=2.46&b1=%230a0a0a&b2=%23c70000&i1=%23292929&i2=%23675b5b&l=en&u=KFSJXU0">
   </a>
 </p>
