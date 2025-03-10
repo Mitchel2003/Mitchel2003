@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Michael</h1>
 
 <h3 align="center">
-  A Full-Stack Developer passionate about crafting seamless user experiences and robust backend systems. 
+  A Full-Stack Developer passionate about crafting seamless user experiences and robust systems. 
   Dedicated to continuous learning, innovation, and turning ideas into reality with code
 </h3>
 
