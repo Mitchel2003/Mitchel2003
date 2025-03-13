@@ -2,7 +2,7 @@
 
 <h3 align="center">
   A Full-Stack Developer passionate about crafting seamless user experiences and robust systems. 
-  Dedicated to continuous learning, innovation, and turning ideas into reality with code
+  Dedicated to continuous learning, innovation, and turning ideas into reality
 </h3>
 
 ---
