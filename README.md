@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="left">📊 GitHub Analytics</h2>
+<h2 align="left">📊 Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/Mitchel2003">
