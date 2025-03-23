@@ -11,7 +11,7 @@
 <ul align="left">
   <li>🔧 Experienced in building scalable and efficient web applications.</li>
   <li>🚀 Enthusiastic about exploring new technologies and tools to enhance development workflows.</li>
-  <li>🌟 Skilled in front-end technologies like React</li>
+  <li>🌟 Skilled in front-end</li>
 </ul>
 
 ---
