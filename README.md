@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi guys, I'm Michael</h1>
+<h1 align="center">👋 Hi, I'm Michael</h1>
 
 <h3 align="center">
   A Full-Stack Developer passionate about crafting seamless user experiences and robust systems. 
