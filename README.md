@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8DF7&background=98FF3500&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+Development;Mobile+Development;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
+---
+
 I am a passionate Full-Stack Developer with experience in building scalable and efficient web applications. I'm dedicated to continuous learning and innovation, always exploring new technologies to enhance development workflows and create exceptional digital experiences.
 
 - 🔧 Experienced in both frontend and backend development
