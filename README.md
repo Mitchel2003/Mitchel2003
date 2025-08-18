@@ -50,7 +50,6 @@ I am a passionate Full-Stack Developer with experience in building scalable and 
 
 <div align="center">
   <a href="https://github.com/Mitchel2003">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="180em" alt="lapras-card" src="https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=3.36&i=2.46&b1=%230a0a0a&b2=%23c70000&i1=%23292929&i2=%23675b5b&l=en&u=KFSJXU0">
   </a>
