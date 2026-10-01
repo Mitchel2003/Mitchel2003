@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I am a Software Engineer focused on designing and building mission-critical enterprise systems, domain-driven architectures (DDD), and scalable multi-tenant platforms. Much of my recent work centers on HealthTech compliance, biomedical operations, and regulatory automation (INVIMA), where precision, security, and strict data invariants are non-negotiable.
+I am a Software Engineer focused on designing and building mission-critical enterprise applications, domain-driven architectures (DDD), and resilient multi-tenant platforms where security, strict data invariants, and high reliability are non-negotiable.
 
 Beyond web and mobile architectures, I specialize in workflow automation and low-level systems: from building robust RPA bots with Playwright, BullMQ, and Redis to solve complex portals and captchas, to developing desktop automation tools in C#/.NET leveraging native Win32 APIs and real-time screen analysis.
 
