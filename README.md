@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Michael%20Antony&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
-</p>
-
 # Hey 👋, I am Michael!
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Architect;Full-Stack+Systems+Engineer;RPA+%26+Automation+Specialist;Building+Resilient+Multi-Tenant+Systems" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  <span style="color: #38bdf8;">Software Architect & Full-Stack Systems Engineer</span>
+</h3>
 
 ### 🧑‍💻 About Me
 
@@ -48,45 +44,6 @@ I actively integrate AI-assisted agentic workflows, Spec-Driven Development (SDD
 
 ---
 
-<h2 align="left">⚡ Telemetry &amp; System Station</h2>
-
-<p align="center">
-  <img src="public/assets/workstation.svg" alt="Workstation Cluster Telemetry" width="100%" />
-</p>
-
-<p align="center">
-  <img src="public/assets/audio-player.svg" alt="Lo-Fi Coding Session Equalizer" width="100%" />
-</p>
-
----
-
-<h2 align="left">🕹️ Interactive Arena: Tic-Tac-Toe</h2>
-
-<p align="left">Challenge the architect! Click an open cell to challenge me (Player: ❌ vs Architect: ⭕):</p>
-
-| Col 1 | Col 2 | Col 3 |
-| :---: | :---: | :---: |
-| [ ⭕ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C0%2C0&body=I+challenge+you+with+this+move!) | [ ❌ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C0%2C1&body=I+challenge+you+with+this+move!) | [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C0%2C2&body=I+challenge+you+with+this+move!) |
-| [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C1%2C0&body=I+challenge+you+with+this+move!) | [ ❌ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C1%2C1&body=I+challenge+you+with+this+move!) | [ ⭕ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C1%2C2&body=I+challenge+you+with+this+move!) |
-| [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C2%2C0&body=I+challenge+you+with+this+move!) | [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C2%2C1&body=I+challenge+you+with+this+move!) | [ ❌ (Win!)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C2%2C2&body=I+challenge+you+with+this+move!) |
-
----
-
-<h2 align="left">⚡ Terminal Environment</h2>
-
-```bash
-mitchel@sys:~$ neofetch --profile
-  /\_/\      OS: Linux / Windows (WSL2)
- ( o.o )     Kernel: High-Reliability Architecture
-  > ^ <      Shell: zsh / powershell
-             Editor: Neovim / VSCode
-             Stack: TypeScript, C#/.NET, Node.js, Python, PostgreSQL, Docker
-             Automation: Playwright, BullMQ, Redis, Win32 Native
-             Status: Building mission-critical systems & resilient workflows
-```
-
----
-
 <h2 align="left">🏆 Contributions</h2>
 <p align="center">
     <!--Streak-stats-->
@@ -116,17 +73,7 @@ mitchel@sys:~$ neofetch --profile
 
 ---
 
-<h2 align="left">🏙️ 3D Contribution City & 🐍 Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3D Profile Contrib" src="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture>
-</div>
-
-<br/>
+<h2 align="left">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
