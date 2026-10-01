@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="120" viewBox="0 0 540 120" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="540" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+    <linearGradient id="eqGrad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; font-weight: 600; fill: #f8fafc; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #94a3b8; }
+    .badge { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10px; font-weight: 700; fill: #38bdf8; }
+    .time { font-family: "Courier New", monospace; font-size: 10px; fill: #64748b; }
+    
+    @keyframes bounce1 { 0%, 100% { height: 6px; y: 74px; } 50% { height: 32px; y: 48px; } }
+    @keyframes bounce2 { 0%, 100% { height: 28px; y: 52px; } 50% { height: 10px; y: 70px; } }
+    @keyframes bounce3 { 0%, 100% { height: 14px; y: 66px; } 50% { height: 36px; y: 44px; } }
+    @keyframes bounce4 { 0%, 100% { height: 34px; y: 46px; } 50% { height: 16px; y: 64px; } }
+    @keyframes bounce5 { 0%, 100% { height: 8px; y: 72px; } 50% { height: 30px; y: 50px; } }
+    @keyframes bounce6 { 0%, 100% { height: 26px; y: 54px; } 50% { height: 12px; y: 68px; } }
+
+    .b1 { animation: bounce1 1.1s ease-in-out infinite; }
+    .b2 { animation: bounce2 0.85s ease-in-out infinite; }
+    .b3 { animation: bounce3 1.3s ease-in-out infinite; }
+    .b4 { animation: bounce4 0.95s ease-in-out infinite; }
+    .b5 { animation: bounce5 1.15s ease-in-out infinite; }
+    .b6 { animation: bounce6 0.75s ease-in-out infinite; }
+    
+    @keyframes spinDisc { 100% { transform: rotate(360deg); } }
+    .disc { transform-origin: 50px 60px; animation: spinDisc 6s linear infinite; }
+  </style>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="538" height="118" rx="14" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Animated Vinyl Disc -->
+  <g class="disc">
+    <circle cx="50" cy="60" r="32" fill="#030712" stroke="#334155" stroke-width="2" />
+    <circle cx="50" cy="60" r="24" stroke="#1e293b" stroke-width="1" stroke-dasharray="2 3" />
+    <circle cx="50" cy="60" r="16" stroke="#1e293b" stroke-width="1" />
+    <circle cx="50" cy="60" r="11" fill="url(#accent)" />
+    <circle cx="50" cy="60" r="3.5" fill="#0f172a" />
+  </g>
+
+  <!-- Track Info -->
+  <rect x="98" y="24" width="70" height="18" rx="4" fill="#0369a1" fill-opacity="0.25" stroke="#0284c7" stroke-width="0.75" />
+  <text x="106" y="37" class="badge">● NOW PLAYING</text>
+  <text x="98" y="58" class="title">Synthwave Architecture Sessions</text>
+  <text x="98" y="75" class="subtitle">Michael Antony • Low-Latency Flow &amp; High-Focus Workflows</text>
+
+  <!-- Mini Progress Bar -->
+  <line x1="98" y1="90" x2="360" y2="90" stroke="#1e293b" stroke-width="3" stroke-linecap="round" />
+  <line x1="98" y1="90" x2="270" y2="90" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" />
+  <circle cx="270" cy="90" r="4.5" fill="#38bdf8" />
+  <text x="375" y="93" class="time">03:24 / 05:40</text>
+
+  <!-- Equalizer Bars -->
+  <rect class="b1" x="445" y="74" width="5" height="6" rx="2.5" fill="url(#eqGrad)" />
+  <rect class="b2" x="455" y="52" width="5" height="28" rx="2.5" fill="url(#eqGrad)" />
+  <rect class="b3" x="465" y="66" width="5" height="14" rx="2.5" fill="url(#eqGrad)" />
+  <rect class="b4" x="475" y="46" width="5" height="34" rx="2.5" fill="url(#eqGrad)" />
+  <rect class="b5" x="485" y="72" width="5" height="8" rx="2.5" fill="url(#eqGrad)" />
+  <rect class="b6" x="495" y="54" width="5" height="26" rx="2.5" fill="url(#eqGrad)" />
+</svg>

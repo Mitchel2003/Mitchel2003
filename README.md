@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Michael%20Antony&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+</p>
+
 # Hey 👋, I am Michael!
 
 ---
@@ -41,6 +45,30 @@ I actively integrate AI-assisted agentic workflows, Spec-Driven Development (SDD
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="42" height="42"/></a>
 </p>
+
+---
+
+<h2 align="left">⚡ Telemetry &amp; System Station</h2>
+
+<p align="center">
+  <img src="public/assets/workstation.svg" alt="Workstation Cluster Telemetry" width="100%" />
+</p>
+
+<p align="center">
+  <img src="public/assets/audio-player.svg" alt="Lo-Fi Coding Session Equalizer" width="100%" />
+</p>
+
+---
+
+<h2 align="left">🕹️ Interactive Arena: Tic-Tac-Toe</h2>
+
+<p align="left">Challenge the architect! Click an open cell to challenge me (Player: ❌ vs Architect: ⭕):</p>
+
+| Col 1 | Col 2 | Col 3 |
+| :---: | :---: | :---: |
+| [ ⭕ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C0%2C0&body=I+challenge+you+with+this+move!) | [ ❌ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C0%2C1&body=I+challenge+you+with+this+move!) | [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C0%2C2&body=I+challenge+you+with+this+move!) |
+| [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C1%2C0&body=I+challenge+you+with+this+move!) | [ ❌ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C1%2C1&body=I+challenge+you+with+this+move!) | [ ⭕ ](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C1%2C2&body=I+challenge+you+with+this+move!) |
+| [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C2%2C0&body=I+challenge+you+with+this+move!) | [ ⬜ (Play)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C2%2C1&body=I+challenge+you+with+this+move!) | [ ❌ (Win!)](https://github.com/Mitchel2003/Mitchel2003/issues/new?title=ttt%7Cplay%7C2%2C2&body=I+challenge+you+with+this+move!) |
 
 ---
 

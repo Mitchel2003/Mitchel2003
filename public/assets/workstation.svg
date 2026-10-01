@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="140" viewBox="0 0 540 140" fill="none">
+  <defs>
+    <linearGradient id="rackBg" x1="0" y1="0" x2="540" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="100%" stop-color="#0d1322" />
+    </linearGradient>
+    <linearGradient id="pulseGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono-title { font-family: "Fira Code", monospace, "Segoe UI"; font-size: 13px; font-weight: 700; fill: #38bdf8; }
+    .mono-sub { font-family: "Fira Code", monospace, "Segoe UI"; font-size: 11px; fill: #94a3b8; }
+    .mono-dim { font-family: "Fira Code", monospace, "Segoe UI"; font-size: 10px; fill: #475569; }
+    
+    @keyframes ledBlinkFast { 0%, 100% { opacity: 1; } 50% { opacity: 0.15; } }
+    @keyframes ledBlinkMed { 0%, 100% { opacity: 0.2; } 50% { opacity: 1; } }
+    @keyframes ledBlinkSlow { 0%, 30% { opacity: 1; } 60%, 100% { opacity: 0.3; } }
+    @keyframes pulseLine { 0% { stroke-dashoffset: 200; } 100% { stroke-dashoffset: 0; } }
+
+    .led-green1 { animation: ledBlinkFast 0.8s infinite; fill: #22c55e; }
+    .led-green2 { animation: ledBlinkMed 1.1s infinite; fill: #22c55e; }
+    .led-blue1 { animation: ledBlinkSlow 1.6s infinite; fill: #38bdf8; }
+    .led-blue2 { animation: ledBlinkFast 0.6s infinite; fill: #38bdf8; }
+    .led-amber { animation: ledBlinkMed 1.4s infinite; fill: #f59e0b; }
+    
+    .pulse-path {
+      stroke-dasharray: 40 10;
+      animation: pulseLine 3s linear infinite;
+    }
+  </style>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="538" height="138" rx="14" fill="url(#rackBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Server Blades (Left Side) -->
+  <g transform="translate(20, 20)">
+    <!-- Blade 1 -->
+    <rect x="0" y="0" width="160" height="20" rx="3" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="12" cy="10" r="3" class="led-green1" />
+    <circle cx="22" cy="10" r="3" class="led-blue1" />
+    <circle cx="32" cy="10" r="3" class="led-blue2" />
+    <rect x="50" y="7" width="95" height="6" rx="2" fill="#1e293b" />
+
+    <!-- Blade 2 -->
+    <rect x="0" y="26" width="160" height="20" rx="3" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="12" cy="36" r="3" class="led-green2" />
+    <circle cx="22" cy="36" r="3" class="led-amber" />
+    <circle cx="32" cy="36" r="3" class="led-green1" />
+    <rect x="50" y="33" width="95" height="6" rx="2" fill="#1e293b" />
+
+    <!-- Blade 3 -->
+    <rect x="0" y="52" width="160" height="20" rx="3" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="12" cy="62" r="3" class="led-blue2" />
+    <circle cx="22" cy="62" r="3" class="led-green1" />
+    <circle cx="32" cy="62" r="3" class="led-blue1" />
+    <rect x="50" y="59" width="95" height="6" rx="2" fill="#1e293b" />
+
+    <!-- Blade 4 -->
+    <rect x="0" y="78" width="160" height="20" rx="3" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="12" cy="88" r="3" class="led-green1" />
+    <circle cx="22" cy="88" r="3" class="led-green2" />
+    <circle cx="32" cy="88" r="3" class="led-amber" />
+    <rect x="50" y="85" width="95" height="6" rx="2" fill="#1e293b" />
+  </g>
+
+  <!-- Cluster Status & Live Telemetry (Right Side) -->
+  <g transform="translate(205, 20)">
+    <text x="0" y="16" class="mono-title">⚡ CLUSTER NODE: SYS-01 [ACTIVE]</text>
+    <text x="0" y="36" class="mono-sub">Role: Autonomous Workflows &amp; Multi-Tenant Core</text>
+    <text x="0" y="54" class="mono-dim">Memory: Invariant Guarded | Load: 0.42 | Uptime: 99.98%</text>
+
+    <!-- Telemetry Pulse Graph -->
+    <path class="pulse-path" d="M 0 85 L 40 85 L 55 68 L 70 98 L 85 75 L 105 85 L 150 85 L 165 65 L 180 95 L 195 85 L 305 85" fill="none" stroke="url(#pulseGrad)" stroke-width="2" stroke-linecap="round" />
+    <text x="0" y="102" class="mono-dim">LIVE HEARTBEAT TELEMETRY</text>
+  </g>
+</svg>
