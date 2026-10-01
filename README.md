@@ -59,18 +59,6 @@
 
 ---
 
-<h2 align="left">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 <h2 align="left">📊 Github Analytics</h2>
 
 <p align="center">
@@ -80,9 +68,21 @@
     <!--Github-stats-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <!--Trophies-stats-->
-    <img src="https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
+
+---
+
+<h2 align="left">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
