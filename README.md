@@ -2,9 +2,9 @@
 
 ---
 
-<h3 align="center">
-  <span style="color: #38bdf8;">Software Architect & Full-Stack Systems Engineer</span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Architect;Full-Stack+Systems+Engineer;RPA+%26+Automation+Specialist;Building+Resilient+Multi-Tenant+Systems" alt="Typing SVG" />
+</p>
 
 ### 🧑‍💻 About Me
 
@@ -44,6 +44,21 @@ I actively integrate AI-assisted agentic workflows, Spec-Driven Development (SDD
 
 ---
 
+<h2 align="left">⚡ Terminal Environment</h2>
+
+```bash
+mitchel@sys:~$ neofetch --profile
+  /\_/\      OS: Linux / Windows (WSL2)
+ ( o.o )     Kernel: High-Reliability Architecture
+  > ^ <      Shell: zsh / powershell
+             Editor: Neovim / VSCode
+             Stack: TypeScript, C#/.NET, Node.js, Python, PostgreSQL, Docker
+             Automation: Playwright, BullMQ, Redis, Win32 Native
+             Status: Building mission-critical systems & resilient workflows
+```
+
+---
+
 <h2 align="left">🏆 Contributions</h2>
 <p align="center">
     <!--Streak-stats-->
@@ -73,7 +88,17 @@ I actively integrate AI-assisted agentic workflows, Spec-Driven Development (SDD
 
 ---
 
-<h2 align="left">🐍 Contribution Snake</h2>
+<h2 align="left">🏙️ 3D Contribution City & 🐍 Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Profile Contrib" src="https://raw.githubusercontent.com/Mitchel2003/Mitchel2003/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
